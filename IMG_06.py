@@ -14,3 +14,5 @@ for x in range(0, 10, 1):
 
 w.pack()
 root.mainloop()
+
+## Raté
